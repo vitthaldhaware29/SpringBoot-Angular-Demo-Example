@@ -1,0 +1,8 @@
+# Ignore the .target folder and the .idea folder
+/.target/
+/.idea/
+
+# Ignore all files and directories except .java files and pom.xml
+/*
+!*.java
+!pom.xml
